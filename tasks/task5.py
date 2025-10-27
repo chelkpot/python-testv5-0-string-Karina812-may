@@ -6,7 +6,7 @@ def solve():
     ord1=ord(a)
     ord2=ord(b)
     ord3=ord(c)
-    print("код символа " + str(a) + "равен " + str(ord1) + '\n' + "код символа " + str(b) + "равен" + str(ord2) + '\n' + "код символа " + str(c) + "равен " + str(ord3))
+    print("Код символа " + str(a) + " равен " + str(ord1) + '\n' + "Код символа " + str(b) + " равен " + str(ord2) + '\n' + "Код символа " + str(c) + " равен " + str(ord3))
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":
     solve()
